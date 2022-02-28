@@ -1,0 +1,29 @@
+main {
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    padding: 10px;   
+    color:white;
+    font-weight: bold;
+    margin-top: 10px;
+    border: black 1px solid;
+    background-color: rgb(21,21,30);
+}
+
+.hola {
+    background-color: white;
+    text-align: center;
+    color: black;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border: black 1px solid;
+    padding: 4px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
